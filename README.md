@@ -1,3 +1,4 @@
 - Sou Guilherme Ricardo Axhcar
 - Gosto da área de tecnológia
 - Pretendo seguir nessa área
+- Estudante da Trybe
