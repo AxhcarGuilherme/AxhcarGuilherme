@@ -1,8 +1,6 @@
 <h1 align="center">Olá 👋, Eu sou Guilherme Ricardo Axhcar</h1>
 <h3 align="center">Estudante de desenvolvimento Web Back-End(Full-Stack), 3x medalhista da OBMEP(Olimpíada Brasileira de Matemática Pública) e amante de lógica</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=axhcargui&label=Profile%20views&color=0e75b6&style=flat" alt="axhcargui" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=axhcargui" alt="axhcargui" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
